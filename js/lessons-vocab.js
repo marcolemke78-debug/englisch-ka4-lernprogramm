@@ -249,7 +249,7 @@ window.LESSON_DATA = (window.LESSON_DATA || []).concat([
           { de: "streamen (im Internet)", en: "to stream", alternatives: ["stream"] },
           { de: "Programm; Sendung (AE)", en: "program", alternatives: ["programme"] },
           { de: "Tätowierung", en: "tattoo" },
-          { de: "Vegetarismus", en: "vegetarian" },
+          { de: "Vegetarismus", en: "vegetarianism" },
           { de: "so (Betonung), z.B. not that nice", en: "that" }
         ]
       },
